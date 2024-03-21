@@ -48,7 +48,6 @@ PyGObject==3.42.1
 PyJWT==2.8.0
 pyparsing==2.4.7
 pyrsistent==0.18.1
-python-apt==2.4.0
 python-dotenv==0.19.2
 python-multipart==0.0.9
 PyYAML==5.4.1
