@@ -14,7 +14,6 @@ chardet==4.0.0
 cryptography==3.4.8
 dbus-python==1.2.18
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
 dnspython==2.6.1
 docker==5.0.3
 docker-compose==1.29.2
