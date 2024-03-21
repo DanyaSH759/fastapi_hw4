@@ -15,7 +15,7 @@ VOLUME src/operations/DL_dicts/
 
 RUN chmod a+x docker/*.sh
 
-RUN alembic upgrade hear
+RUN alembic upgrade head
 
 WORKDIR src
 
