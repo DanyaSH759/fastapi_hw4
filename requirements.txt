@@ -48,7 +48,7 @@ PyGObject==3.42.1
 PyJWT==2.8.0
 pyparsing==2.4.7
 pyrsistent==0.18.1
-python-apt==2.4.0+ubuntu3
+python-apt==2.4.0
 python-dotenv==0.19.2
 python-multipart==0.0.9
 PyYAML==5.4.1
@@ -62,7 +62,6 @@ starlette==0.36.3
 systemd-python==234
 texttable==1.6.4
 typing_extensions==4.10.0
-ubuntu-pro-client==8001
 ufw==0.36.1
 unattended-upgrades==0.1
 urllib3==1.26.5
